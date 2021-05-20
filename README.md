@@ -2,6 +2,14 @@
 
 (Copy and) paste values from param store into your 💩 config file
 
+## Included binaries
+
+```
+cmd/paste/paste_darwin
+cmd/paste/paste_linux
+```
+
+
 ## Build
 
 ```
